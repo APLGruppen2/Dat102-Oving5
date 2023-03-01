@@ -19,7 +19,7 @@ public class DobbelKjedetOrdnetListe<T extends Comparable<T>> implements DobbelK
 		nyNode2.setForrige(nyNode1);
 		siste=nyNode2;
 
-		antall=0;
+		antall=1;
 	}
 
 	@Override
